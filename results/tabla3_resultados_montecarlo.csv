@@ -1,0 +1,7 @@
+Escenario / Modelo,Media,Desv_Std,Minimo,Maximo,IC95_Inf,IC95_Sup,IC_95_Texto
+E1: Nominal (HMM Viterbi),0.7817,0.0884,0.5167,0.9667,0.7643,0.799,"[0.7643, 0.7990]"
+E1: Nominal (Baseline Umbral),0.735,0.0635,0.5833,0.8833,0.7226,0.7474,"[0.7226, 0.7474]"
+E2: Perturbado (HMM Viterbi),0.5223,0.0756,0.3167,0.6833,0.5075,0.5371,"[0.5075, 0.5371]"
+E2: Perturbado (Baseline Umbral),0.5277,0.0632,0.4167,0.6667,0.5153,0.5401,"[0.5153, 0.5401]"
+E3: Gaussiano (HMM Viterbi),0.959,0.0309,0.8333,1.0,0.9529,0.9651,"[0.9529, 0.9651]"
+E3: Gaussiano (Baseline Umbral),0.9417,0.0349,0.8333,1.0,0.9348,0.9485,"[0.9348, 0.9485]"
